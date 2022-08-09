@@ -15,7 +15,7 @@ global.APIKeys = {
 // setting 
 global.autoread = false // auto read message
 global.autobio = true 
-global.userRegister = true
+global.userRegister = false
 
 //language
 //Available in indonesia , english & spanyol 
@@ -38,7 +38,7 @@ global.owner = ["62895602954335"] //ganti agar fitur owner bisa di gunakan
 global.ownernomer = "62895602954335" // nomor wa kalian
 global.ownernomerr = "+62895602954335" //nmr wa kalian
 global.thumbnail = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
-global.donasi = "./image/donasi.jpg" // foto donasi di folder image
+global.donasi = "____" // foto donasi di folder image
 global.background_welcome="https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
 global.packname = '© OxiumBotོ' //sticker wm ubah
 global.author = 'Di Buat Oleh Oxium' //sticker wm ganti nama kalian
